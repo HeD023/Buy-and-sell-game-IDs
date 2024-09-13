@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio&family=Kanit:wght@300&display=swap');
+
+body {
+    font-family: 'Antonio', sans-serif;
+    font-family: 'Kanit', sans-serif;
+  font-size: 14px;
+}
+
+.hero{
+    background-color: #3CB371;
+    
+}
+.main{
+    font-size: 45px;
+    padding-top: 2rem;
+    padding-left: 120px;
+    
+  
+}
+.img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+.myhero{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-gap: 2rem;
+    padding-top: 5px;
+}
+.mainrong{
+    font-size: 20px;
+    padding-top: 3rem;
+    padding-left: 120px;
+    padding-bottom: 14px;
+}
+.pe{
+    padding-top: 5px;
+}
+.gam{
+    padding-right: 20px;
+}
+.next{
+    margin: 5rem;
+}
+.new{
+    padding-bottom: 2rem;
+    padding-left: 120px;
+    padding-top: 2rem
+}
+.page{
+    padding-top: 4rem;
+}
+.card{
+    width: 500px;
+    height: 380px;
+}
+.cards{
+    width: 500px;
+    height: 360px;
+}
+.contact{
+    text-align: center;
+    background-color: #E6CCB2;
+    padding: 10%;
+}
+.head{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10%;
+}

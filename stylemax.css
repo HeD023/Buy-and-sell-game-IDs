@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio&family=Kanit:wght@300&display=swap');
+
+body {
+    font-family: 'Antonio', sans-serif;
+    font-family: 'Kanit', sans-serif;
+  font-size: 14px;
+}
+
+.hero{
+  background-color: #3CB371;
+  
+}
